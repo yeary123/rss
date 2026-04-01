@@ -1,0 +1,5 @@
+.env
+.venv/
+
+# Generated locally or in CI before Pages upload
+public/feeds/merged.xml

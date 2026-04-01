@@ -1,0 +1,12 @@
+# Feeds fetched by GitHub Actions (good for sources your mainland VPS cannot reach).
+# After enabling GitHub Pages, set feed.self_url to your real merged feed URL.
+
+feed:
+  title: "Bridge (merged)"
+  subtitle: "Aggregated by GitHub Actions"
+  # Must match the public URL of merged.xml (used as Atom id and rel=self)
+  self_url: "https://YOURUSER.github.io/YOURREPO/feeds/merged.xml"
+
+sources:
+  - name: "Miniflux — official announcements"
+    url: "https://miniflux.app/feed.xml"
