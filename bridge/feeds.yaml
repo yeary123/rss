@@ -5,7 +5,7 @@ feed:
   title: "Bridge (merged)"
   subtitle: "Aggregated by GitHub Actions"
   # Must match the public URL of merged.xml (used as Atom id and rel=self)
-  self_url: "https://YOURUSER.github.io/YOURREPO/feeds/merged.xml"
+  self_url: "https://yeary123.github.io/rss/feeds/merged.xml"
 
 sources:
   - name: "Miniflux — official announcements"
